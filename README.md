@@ -49,4 +49,4 @@ Ela armazena repositórios de um portfólio, permitindo a criação, listagem, a
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT.
